@@ -76,12 +76,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gokulgokugk2004">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gokulgokugk2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/gokulgokugk2004">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulgokugk2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gokulgokugk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulgokugk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 </div>
 
 ---
@@ -89,7 +86,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gokulgokugk2004&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Gokulgokugk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -97,7 +94,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokulgokugk2004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulgokugk&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -105,7 +102,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokulgokugk2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gokulgokugk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
@@ -192,14 +189,14 @@ print(me.motto())
 
 [![Email](https://img.shields.io/badge/Email-gokulgokugk2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gokulgokugk2004@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208531944371-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918531944371)
-[![GitHub](https://img.shields.io/badge/GitHub-gokulgokugk2004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gokulgokugk2004)
+[![GitHub](https://img.shields.io/badge/GitHub-Gokulgokugk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gokulgokugk)
 ![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-FF4500?style=flat-square&logo=google-maps&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-Tamil%20%7C%20English-blue?style=flat-square)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokulgokugk2004&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Gokulgokugk&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
