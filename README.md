@@ -1,14 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gokul%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gokul%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20|%20AI%20&%20ML%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=62&descSize=16"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Gokul+S+%F0%9F%91%8B;Computer+Science+Engineer+%7C+Chennai%2C+India;AI+%2B+ML+%7C+Full+Stack+%7C+Cloud+Enthusiast;Building+Adversarially+Robust+ML+Systems+%F0%9F%94%90" alt="Typing SVG" />
-  </a>
+
+# 👋 Hi, I'm Gokul S
+
+### Computer Science Engineer | AI & ML Enthusiast | Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Adversarially+Robust+ML+Systems" />
+
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```python
 class GokulS:
