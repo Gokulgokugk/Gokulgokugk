@@ -166,7 +166,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| 🎓 B.E. Computer Science Engineering | Vels Institute of Science, Technology & Advanced Studies, Chennai | 2022 – 2026 | CGPA: 7.53 |
+| 🎓 B.E. Computer Science Engineering | Vels Institute of Science, Technology & Advanced Studies, Chennai | 2022 – 2026 | CGPA: 7.61 |
 | 📘 HSC (Class 12 — CBSE) | Maharishi School of Excellence, Thiruverkadu, Chennai | Jun 2021 – Jul 2022 | 65.8% |
 | 📗 SSLC (Class 10 — CBSE) | Maharishi Vidya Mandir, T P S Nagar, Thanjavur | Jun 2019 – Jul 2020 | 53.4% |
 
