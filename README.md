@@ -22,7 +22,7 @@ class GokulS:
         self.email       = "gokulgokugk2004@gmail.com"
         self.degree      = "B.E. Computer Science Engineering"
         self.college     = "Vels Institute of Science, Tech & Advanced Studies"
-        self.cgpa        = 7.53
+        self.cgpa        = 7.61
         self.stack       = [
             "Java", "Python", "JavaScript",
             "React.js", "HTML", "CSS",
